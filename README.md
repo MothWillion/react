@@ -1,2 +1,2 @@
-# react
-react learning
+# react-ssr
+react-ssr learning
